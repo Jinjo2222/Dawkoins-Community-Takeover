@@ -1,0 +1,34 @@
+# Dawkoins Documentation
+
+Welcome to the Dawkoins documentation! This repository contains useful information about Dawkoins (DAW), including how to use it, its features, and implementation details.
+
+## Introduction
+
+Dawkoins (DAW) is a decentralized cryptocurrency token built on the Solana blockchain. It aims to revolutionize the world of memes and digital assets by leveraging the legacy of Richard Dawkins and meme culture.
+
+## Getting Started
+
+To get started with Dawkoins, you can follow these steps:
+1. Obtain a Solana wallet that supports DAW tokens.
+2. Purchase DAW tokens from a supported exchange or participate in token sales.
+3. Store your DAW tokens securely in your Solana wallet.
+
+## Token Overview
+
+- **Token Symbol:** DAW
+- **Total Supply:** [Insert total supply here]
+- **Contract Address:** [Insert contract address here]
+- **Explorer:** [Solscan Explorer Link](https://solscan.io/account/TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA#anchorProgramIDL)
+
+## Smart Contracts
+
+The smart contracts for Dawkoins are generated using the Anchor framework. You can find the source code and additional details in the `contracts/` directory of this repository.
+
+## Resources
+
+- [Audit Report](https://www.cyberscope.io/audits/daw)
+- [KYC Verification](https://assuredefi.com/projects/dawkoins/)
+- [Community Discussions](https://t.me/DawkoinsOnSol)
+
+For more information and updates, please visit our [official website](https://www.dawkoins.com).
+
