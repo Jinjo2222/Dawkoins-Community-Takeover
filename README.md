@@ -1,6 +1,7 @@
 # Dawkoins-Community-Takeover
 
 
+![YellowDAW (1)-fotor-20240401201140](https://github.com/Jinjo2222/Dawkoins-Community-Takeover/assets/162817068/c786fca5-798f-413d-b95f-5f09732e7b5f)
 
 # Dawkoins (DAW) Token
 
